@@ -7,6 +7,6 @@ Integrar un sistema de gestiòn en la banca digital natural verde; a fin de sati
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@Mig-droid-coder](https://www.github.com/Mig-droid-coder)
 
 
