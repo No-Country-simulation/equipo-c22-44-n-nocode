@@ -9,4 +9,9 @@ Integrar un sistema de gestiòn en la banca digital natural verde; a fin de sati
 
 - [@Mig-droid-coder](https://www.github.com/Mig-droid-coder)
 
+Analisis de Requerimientos
+Para realizar el anàlisis de requerimientos mediante la evaluacion de los procesos actuales, el primer paso fuè diseñar un formulario en Google Froms.
 
+Permitiò identificar las necesidades especificas y areas de mejora en la empresa.
+
+Ayudò a recopliar datos clave que guiaron la seleccion de funcionalidades utiles y relevantes en la empresa.
