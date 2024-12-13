@@ -102,6 +102,18 @@ Prioridad: Alta  con Fecha estimada de entrega:2 semanas. (Sprint2)
 
 DESIGN BANCA DIGITAL
 
+https://www.figma.com/design/XH4Fr4wyCpiNV1MKDb973g/Untitled?node-id=0-1&node-type=canvas&t=2dnNaDcAJJDZ5hxk-0
+
+
+
+
+
+
+
+
+
+
+
 
 
 
